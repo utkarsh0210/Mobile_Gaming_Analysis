@@ -1,0 +1,48 @@
+Weapon,Weapon Type,Base Damage,Fire Rate,Ammo Type,Firing  Mode,Availability,Reload Duration,Mag size
+M24,Sniper,79,1.800s,7.62mm,Bolt Action,All,4.2s,5
+AWM,Sniper,105,1.850s,0.300mm,Bolt Action,Crate Only,4.6s,5
+Kar98k,Sniper,75,1.900s,7.62mm,Bolt Action,All,4s,5
+Win94,Sniper,66,0.600s,0.45ACP,Pump Action,Miramar Only,4s,8
+M16A4,AR,43,0.075s,5.56mm,"Single, Burst",All,2.2s,30
+M416,AR,43,0.086s,5.56mm,"Single, Burst, Auto",All,2.1s,30
+SCAR-L,AR,43,0.096s,5.56mm,"Single, Auto","Erangel, Miramar",2.2s,30
+AUG,AR,43,0.086s,5.56mm,"Single, Auto",Crate Only,3.66s,30
+QBZ,AR,43,0.092s,5.56mm,"Single, Auto",Sanhok Only,3.66s,30
+AKM,AR,49,0.100s,7.62mm,"Single, Auto",All,2.9s,30
+Beryl M762,AR,47,0.086s,7.62mm,"Single, Burst, Auto",All,2.9s,30
+MK47 Mutant,AR,49,0.100s,7.62mm,"Single, Burst",All,3.36s,20
+Groza,AR,49,0.080s,7.62mm,"Single, Auto",Crate Only,3s,30
+G36C,AR,41,0.086s,5.56mm,"Single,Auto",Vikendi Only,3.8s,30
+VSS,DMR,41,0.086s,9mm,"Single, Auto",All,2.9s,10
+Mini14,DMR,46,0.100s,5.56mm,Single,All,3.6s,20
+QBU,DMR,48,0.100s,5.56mm,Single,Sanhok Only,3s,10
+SKS,DMR,53,0.100s,7.62mm,Single,All,4.55s,10
+SLR,DMR,58,0.100s,7.62mm,Single,All,3.683s,10
+Mk14,DMR,61,0.090s,7.62mm,"Single, Auto",Crate Only,3.683s,10
+Micro Uzi,SMG,26,0.048s,9mm,"Single, Auto",All,3.1s,25
+Vector,SMG,35,0.054s,9mm,"Single, Burst, Auto",All,2.2s,19
+UMP45,SMG,39,0.092s,0.45ACP,"Single, Burst, Auto",All,3.1s,25
+MP5K,SMG,33,0.066s,9mm,"single,Auto",Vikendi Only,4.58s,30
+Tommy Gun,SMG,40,0.086s,0.45ACP,"Single, Auto",All,3.45s,30
+PP-Bizon,SMG,37,0.086s,9mm,"Single,Auto","Erangle,Vikendi",3.8s,53
+Sawed-Off,Shotgun,160,0.250s,12Gauge,Single,Miramar Only,4s,2
+S1897,Shotgun,216,0.750s,12Gauge,Pump Action,All,4s,5
+S686,Shotgun,216,0.200s,12Gauge,Single,All,3s,2
+S12k,Shotgun,198,0.250s,12Gauge,Single,All,3s,5
+DBS,Shotgun,26,0.200s,12Gauge,Single,Crate Only,6s,14
+M249,LMG,45,0.075s,5.56mm,Auto,Crate Only,8.2s,100
+DP-28,LMG,51,0.109s,7.62mm,Auto,All,5.5s,47
+P18C,Pistol,23,0.060s,9mm,"Single, Auto",All,2s,17
+P92,Pistol,35,0.135s,9mm,Single,All,2s,15
+P1911,Pistol,41,0.110s,0.45ACP,Single,All,2.1s,7
+R1895,Pistol,55,0.400s,7.62mm,Single,All,6.25s,7
+R45,Pistol,55,0.250s,7.62mm,Single,Miramar Only,3.2s,7
+Skorpion,Pistol,22,0.07s,9mm,"Single,Auto",All,3.1s,20
+Deagle,Pistol,62,0.400s,0.45ACP,Single,All,2s,7
+Crossbow,Crossbow,105,3.800s,Bolts,Single,All,3.55s,1
+Punch,Melee,18,0.330s,,Single,All,,
+Superman Punch,Melee,38,0.330s,,Single,All,,
+Pan,Melee,80,0.750s,,Single,All,,
+Machete,Melee,60,0.750s,,Single,All,,
+Sickle,Melee,60,0.750s,,Single,All,,
+Crowbar,Melee,60,0.750s,,Single,All,,
